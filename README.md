@@ -51,6 +51,7 @@ Currently diving deep into **React ⚛️, Next.js, TypeScript, Tailwind CSS** a
 Stay tuned for my upcoming projects! 😎✨  
 
 
-![Typing animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=500&color=00F&center=true&vCenter=true&width=500&lines=👨‍💻+Writing+React+Code...;🖥️+Exploring+Next.js...;🚀+Building+Awesome+Projects...;✨+Learning+New+Things...)
+![Animated code lines](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg)
+
 
 
