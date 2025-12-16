@@ -15,14 +15,15 @@ Currently diving deep into **React ⚛️, Next.js, TypeScript, Tailwind CSS** a
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![JSON Server](https://img.shields.io/badge/JSON_Server-FF6600?style=for-the-badge&logo=api&logoColor=white)
+![Tailwind_CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JSON_Server](https://img.shields.io/badge/JSON_Server-FF6600?style=for-the-badge&logo=api&logoColor=white)
 
-### 🛠 Tools
+### 🛠 Tools & Environment
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/OS-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 ---
 
@@ -35,7 +36,7 @@ Currently diving deep into **React ⚛️, Next.js, TypeScript, Tailwind CSS** a
 
 ## 🚀 Featured Projects
 | Project | Description | Tech |
-|---------|-------------|------|
+|-------|------------|------|
 | [Portfolio Website](#) | My personal portfolio showcasing projects | React, Tailwind CSS |
 | [Todo App API](#) | CRUD app using JSON Server to simulate real API | React, JSON Server |
 | [Next.js Blog](#) | Blog with server-side rendering and dynamic routing | Next.js, TypeScript |
@@ -44,16 +45,12 @@ Currently diving deep into **React ⚛️, Next.js, TypeScript, Tailwind CSS** a
 
 ## 📬 Connect with Me
 [![GitHub followers](https://img.shields.io/github/followers/sot837?style=social)](https://github.com/sobhanjaferi)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sobhan-jafari-681301396/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sobhan-jafari-681301396/)
 
 ---
 
+✨ *Development & testing environment: Ubuntu Linux*  
+
 Stay tuned for my upcoming projects! 😎✨  
 
-
 ![Typing animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=0AB&center=true&vCenter=true&width=500&lines=💻+Coding+React+Apps...;🖥️+Learning+Next.js...;📝+Building+Projects...)
-
-
-
-
-
