@@ -50,4 +50,5 @@ Currently diving deep into **React ⚛️, Next.js, TypeScript, Tailwind CSS** a
 
 Stay tuned for my upcoming projects! 😎✨  
 
-![coding animation](./77816147-9d27-4fec-9556-fad2487f5abc.png)
+![Coding](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg)
+
