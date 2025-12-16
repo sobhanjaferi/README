@@ -51,7 +51,8 @@ Currently diving deep into **React ⚛️, Next.js, TypeScript, Tailwind CSS** a
 Stay tuned for my upcoming projects! 😎✨  
 
 
-![Coding Animation](https://assets9.lottiefiles.com/packages/lf20_xxx.json)
+![Typing animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=00F&center=true&vCenter=true&width=500&lines=💻+Coding+React+Apps...;🖥️+Learning+Next.js...;📝+Building+Projects...)
+
 
 
 
