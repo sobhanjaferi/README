@@ -1,4 +1,4 @@
-<p align="center">
+[<p align="center">
 
 # 👋 Hi, I'm Sobhan!
 
@@ -99,3 +99,4 @@ Stay tuned for my upcoming projects! 😎✨
 ![Typing animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=0AB&center=true&vCenter=true&width=500&lines=💻+Coding+React+Apps...;🖥️+Learning+Next.js...;📝+Building+Projects...)
 
 </p>
+](https://github.com/sobhanjaferi)
