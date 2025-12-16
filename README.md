@@ -9,27 +9,30 @@ Currently diving deep into **React ⚛️, Next.js, TypeScript, Tailwind CSS** a
 ## 🛠️ Technologies & Tools
 
 ### 💻 Front-End
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Tailwind_CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![JSON_Server](https://img.shields.io/badge/JSON_Server-FF6600?style=for-the-badge&logo=api&logoColor=white)
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="40" height="40"/>
+</p>
 
 ### 🛠 Tools & Environment
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/OS-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" alt="Webpack" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+</p>
 
 ---
 
 ## 📈 What I'm Working On
 - 🎯 Building **modern, responsive web apps** with React & Next.js  
-- 💡 Integrating **APIs with JSON Server** and dynamic data handling  
+- 💡 Integrating **APIs** and dynamic data handling  
 - 📚 Learning new technologies every day to grow as a developer  
 
 ---
@@ -38,13 +41,12 @@ Currently diving deep into **React ⚛️, Next.js, TypeScript, Tailwind CSS** a
 | Project | Description | Tech |
 |-------|------------|------|
 | [Portfolio Website](#) | My personal portfolio showcasing projects | React, Tailwind CSS |
-| [Todo App API](#) | CRUD app using JSON Server to simulate real API | React, JSON Server |
-| [Next.js Blog](#) | Blog with server-side rendering and dynamic routing | Next.js, TypeScript |
+| [Todo App API](#) | CRUD app using mock API | React, JSON Server |
+| [Next.js Blog](#) | Blog with SSR and dynamic routing | Next.js, TypeScript |
 
 ---
 
 ## 📬 Connect with Me
-
 <p align="left">
   <a href="https://github.com/sobhanjaferi" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
@@ -57,7 +59,7 @@ Currently diving deep into **React ⚛️, Next.js, TypeScript, Tailwind CSS** a
 
 ---
 
-✨ *Development & testing environment: Ubuntu Linux*  
+✨ *Development & testing environment: Linux*  
 
 Stay tuned for my upcoming projects! 😎✨  
 
