@@ -30,16 +30,14 @@ Currently diving deep into **React ⚛️, Next.js, TypeScript, Tailwind CSS** a
 ## 🏆 My Skills
 
 <p align="center">
-
-![HTML5](https://img.shields.io/badge/HTML5-90%-orange?style=for-the-badge&logo=html5&logoColor=white) &nbsp;
-![CSS3](https://img.shields.io/badge/CSS3-85%-blue?style=for-the-badge&logo=css3&logoColor=white) &nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-80%-yellow?style=for-the-badge&logo=javascript&logoColor=black) &nbsp;
-![TypeScript](https://img.shields.io/badge/TypeScript-70%-blue?style=for-the-badge&logo=typescript&logoColor=white) &nbsp;
-![React](https://img.shields.io/badge/React-75%-61DAFB?style=for-the-badge&logo=react&logoColor=black) &nbsp;
-![Next.js](https://img.shields.io/badge/Next.js-65%-black?style=for-the-badge&logo=next.js&logoColor=white) &nbsp;
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-70%-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white) &nbsp;
-![Git](https://img.shields.io/badge/Git-85%-F05032?style=for-the-badge&logo=git&logoColor=white)
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/> 90% &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/> 85% &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/> 80% &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/> 70% &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" height="50"/> 75% &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="50" height="50"/> 65% &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="50" height="50"/> 70% &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/> 85%
 </p>
 
 ---
