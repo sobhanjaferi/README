@@ -25,8 +25,8 @@ Git 🐙 | VS Code 🖊️ | npm 📦 | Webpack 🧩
 
 ## 📬 Let's connect:
 
-[![GitHub followers](https://img.shields.io/github/followers/sot837?style=social)](https://github.com/sot837)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/)  
+[![GitHub followers](https://img.shields.io/github/followers/sot837?style=social)](https://github.com/sobhanjaferi)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sobhan-jafari-681301396/)  
 
 ---
 
