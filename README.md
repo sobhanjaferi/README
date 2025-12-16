@@ -44,8 +44,9 @@ Currently diving deep into **React ⚛️, Next.js, TypeScript, Tailwind CSS** a
 ---
 
 ## 📬 Connect with Me
-[![GitHub](https://img.shields.io/badge/GitHub-sobhanjaferi-181717?style=for-the-badge&logo=github)](https://github.com/sobhanjaferi)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sobhan%20Jafari-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sobhan-jafari-681301396/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/sobhanjaferi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sobhan-jafari-681301396/)
+
 
 
 ---
